@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'wordpressdevdb' );
+define( 'DB_NAME', 'mock-dbsql' );
 
 /** Database username */
 define( 'DB_USER', 'root' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Browse_06' );
+define( 'DB_PASSWORD', 'admin68' );
 
 /** Database hostname */
-define( 'DB_HOST', '34.170.22.132' );
+define( 'DB_HOST', '10.118.0.2' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
